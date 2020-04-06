@@ -1,0 +1,311 @@
+<film_list>
+    <film>
+    
+    <id>1</id>
+<name>The Godfather</name>
+<type>Crime</type>
+<year>1972</year>
+<score>9.2</score>
+<language>English</language>
+<description>The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son</description>
+<director>Francis Ford Coppala</director>
+<runtime>175 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0068646/?ref_=hm_stp_pvs_piv_tt_1</url>
+    </film>
+       
+ <film>
+    
+     <id>2</id>
+<name>Forrest Gump</name>
+<type>Drama</type>
+<year>1994</year>
+<score>8.8</score>
+<language>English</language>
+<description>The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart</description>
+<director>Robert Zemeckis</director>
+<runtime>142 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0109830/?ref_=hm_stp_pvs_piv_tt_2</url>
+    </film>
+     
+
+<film>
+    
+    <id>3</id>
+<name>The Shawshank Redemption</name>
+<type>Drama</type>
+<year>1994</year>
+<score>9.3</score>
+<language>English</language>
+<description>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency</description>
+<director>Frank Darabont</director>
+<runtime>142 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1</url>
+    </film>
+    
+   
+    
+<film>
+    
+    <id>4</id>
+<name>Pulp Fiction</name>
+<type>Crime</type>
+<year>1994</year>
+<score>8.9</score>
+<language>English</language>
+<description>The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption</description>
+<director>Quentin Tarantino</director>
+<runtime>154 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0110912/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_8</url>
+    
+    </film>
+    
+<film>
+    
+    <id>5</id>
+<name>Inception</name>
+<type>Action</type>
+<year>2010</year>
+<score>8.8</score>
+<language>English</language>
+<description>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O</description>
+<director>Christopher Nolan</director>
+<runtime>148 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt1375666/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_13</url>
+    </film>
+    
+
+<film>
+    
+    <id>6</id>
+<name>Matrix</name>
+<type>Action</type>
+<year>1999</year>
+<score>8.7</score>
+<language>English</language>
+<description>A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.</description>
+<director>Lana Wachowski</director>
+<runtime>136 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0133093/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_16</url>
+    </film>
+    
+    
+<film>
+    
+       <id>7</id>
+<name>The Silence of the Lambs</name>
+<type>Crime</type>
+<year>1991</year>
+<score>8.6</score>
+<language>English</language>
+<description>A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims</description>
+<director>Jonathan Demme</director>
+<runtime>138 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0102926/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_23</url>
+    </film>
+
+    
+<film>
+<id>8</id>
+<name>The Green Mile</name>
+<type>Crime</type>
+<year>1999</year>
+<score>8.6</score>
+<language>English</language>
+<description>The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.</description>
+<director>Frank Darabont</director>
+<runtime>189 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0120689/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_29</url>
+    </film>
+   
+    
+<film>
+    
+    <id>9</id>
+<name>The Pianist</name>
+<type>Biography</type>
+<year>2002</year>
+<score>8.5</score>
+<language>English</language>
+<description>A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II</description>
+<director>Roman Polanski</director>
+<runtime>150 min</runtime>
+<country>UK</country>
+<url>https://www.imdb.com/title/tt0253474/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_37</url>
+</film>
+
+  
+    
+<film>
+<id>10</id>
+<name>American History X</name>
+<type>Drama</type>
+<year>1998</year>
+<score>8.5</score>
+<language>English</language>
+<description>A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did</description>
+<director>Tony Kaye</director>
+<runtime>119 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0120586/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_35</url>
+    
+</film>
+<film>
+    
+    <id>11</id>
+<name>Intouchables</name>
+<type>Biography</type>
+<year>2011</year>
+<score>8.5</score>
+<language>French</language>
+<description>After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver</description>
+<director>Olivier Nakache</director>
+<runtime>112 min</runtime>
+<country>France</country>
+<url>https://www.imdb.com/title/tt1675434/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_43</url>
+    </film>
+    
+<film>
+    
+<id>12</id>
+<name>Joker</name>
+<type>Crime</type>
+<year>2019</year>
+<score>8.5</score>
+<language>English</language>
+<description>In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker</description>
+<director>Todd Phillips</director>
+<runtime>122 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt7286456/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_48</url>
+    </film>
+    
+<film>
+<id>13</id>
+<name>La vita e bella</name>
+<type>Comedy</type>
+<year>1997</year>
+<score>8.6</score>
+<language>Italian</language>
+<description>When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp</description>
+<director>Roberto Benigni</director>
+<runtime>116 min</runtime>
+<country>Italy</country>
+<url>https://www.imdb.com/title/tt0118799/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_22</url>
+    </film>
+    
+<film>
+    
+<id>14</id>
+<name>Fight Club</name>
+<type>Drama</type>
+<year>8.8</year>
+<score>8.8</score>
+<language>English</language>
+<description>An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more</description>
+<director>David Fincher</director>
+<runtime>151 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0137523/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_11</url>
+    </film>
+    
+<film>
+<id>15</id>
+<name>Schindlers List</name>
+<type>Biography</type>
+<year>1993</year>
+<score>8.9</score>
+<language>English</language>
+<description>In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis</description>
+<director>Steven Spielberg</director>
+<runtime>195 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0108052/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_6</url>
+    
+    </film>
+    
+<film>
+    
+<id>16</id>
+<name>12 Angry Men</name>
+<type>Drama</type>
+<year>1957</year>
+<score>8.9</score>
+<language>English</language>
+<description>A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.</description>
+<director>Sidney Lumet</director>
+<runtime>96 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0050083/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_5</url>
+    </film>
+    
+<film>
+    
+<id>17</id>
+<name>Its a Wonderful Life</name>
+<type>Drama</type>
+<year>1946</year>
+<score>8.6</score>
+<language>English</language>
+<description>An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed</description>
+<director>Frank Capra</director>
+<runtime>130 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0038650/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_24</url>
+    
+    </film>
+    
+<film>
+    
+<id>18</id>
+<name>Once Upon a Time İn America</name>
+<type>Crime</type>
+<year>1984</year>
+<score>8.4</score>
+<language>English</language>
+<description>A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life</description>
+<director>Sergio Leone</director>
+<runtime>229 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0087843/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_72</url>
+
+    </film>
+    
+<film>
+    
+<id>19</id>
+<name>Requiem for a Dream</name>
+<type>Drama</type>
+<year>2000</year>
+<score>8.3</score>
+<language>English</language>
+<description>The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.</description>
+<director>Darren Aronofsky</director>
+<runtime>102 min</runtime>
+<country>USA</country>
+<url>https://www.imdb.com/title/tt0180093/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_90</url>
+    </film>
+    
+<film>
+    
+<id>20</id>
+<name>Dangal</name>
+<type>Action</type>
+<year>2016</year>
+<score>8.4</score>
+<language>Hindi</language>
+<description>Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.</description>
+<director>Nitesh Tiwari</director>
+<runtime>161 min</runtime>
+<country>Indian</country>
+<url>https://www.imdb.com/title/tt5074352/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=M2E7V1ZP032T9VMSJZD8&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_93</url>
+    </film>
+    
+</film_list>
